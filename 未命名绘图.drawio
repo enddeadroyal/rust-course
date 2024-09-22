@@ -15,9 +15,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="otjTri-uV3LHfjxGqvFp-1" value="SEND FRAME" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#B5739D;fontColor=#FFFFFF;fontSize=16;" vertex="1" connectable="0" parent="bnF_GTkMxTmzhYA7cZSp-16">
+        <mxCell id="otjTri-uV3LHfjxGqvFp-1" value="SEND FRAME" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;fontSize=16;" vertex="1" connectable="0" parent="bnF_GTkMxTmzhYA7cZSp-16">
           <mxGeometry x="0.0643" y="-1" relative="1" as="geometry">
-            <mxPoint x="-23" as="offset" />
+            <mxPoint x="-23" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bnF_GTkMxTmzhYA7cZSp-1" value="通信ミドル" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;shape=mxgraph.azure.virtual_machine;fontSize=16;strokeWidth=3;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
@@ -30,17 +30,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bnF_GTkMxTmzhYA7cZSp-8" value="EVENT_DB" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;strokeWidth=3;fillColor=#5D7F99;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="1127.77" y="285" width="60" height="80" as="geometry" />
+          <mxGeometry x="1140" y="286" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bnF_GTkMxTmzhYA7cZSp-10" value="DTS-D1/D2/G1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/azure2/other/Connected_Vehicle_Platform.svg;strokeWidth=3;fillColor=#5D7F99;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="50" y="294.5" width="79.77" height="61" as="geometry" />
+          <mxGeometry x="50" y="295.5" width="79.77" height="61" as="geometry" />
         </mxCell>
         <mxCell id="bnF_GTkMxTmzhYA7cZSp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="bnF_GTkMxTmzhYA7cZSp-10" target="bnF_GTkMxTmzhYA7cZSp-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="otjTri-uV3LHfjxGqvFp-2" value="CONNECT/TCP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#B5739D;fontColor=#FFFFFF;fontSize=16;" vertex="1" connectable="0" parent="bnF_GTkMxTmzhYA7cZSp-12">
+        <mxCell id="otjTri-uV3LHfjxGqvFp-2" value="CONNECT/TCP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#1A1A1A;fontSize=16;" vertex="1" connectable="0" parent="bnF_GTkMxTmzhYA7cZSp-12">
           <mxGeometry x="-0.0235" relative="1" as="geometry">
-            <mxPoint x="-29" as="offset" />
+            <mxPoint x="-29" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3nwgfoT_hswRjVwzcz-u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;fontColor=default;strokeWidth=3;labelBackgroundColor=none;" edge="1" parent="1" source="bnF_GTkMxTmzhYA7cZSp-2" target="bnF_GTkMxTmzhYA7cZSp-1">
@@ -53,16 +53,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MGMfOYtRVl626plIVGqN-1" value="GET EVENT DATA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#B5739D;fontColor=#FFFFFF;rounded=1;labelBorderColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1027.77" y="326" as="geometry" />
+        <mxCell id="MGMfOYtRVl626plIVGqN-1" value="GET EVENT DATA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;labelBorderColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1027.77" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="MGMfOYtRVl626plIVGqN-2" value="SEND EVENT DATA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#B5739D;fontColor=#FFFFFF;rounded=1;labelBorderColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="930" y="510" as="geometry">
+        <mxCell id="MGMfOYtRVl626plIVGqN-2" value="SEND EVENT DATA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;labelBorderColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="920" y="490" as="geometry">
             <mxPoint x="-294" y="-88" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MGMfOYtRVl626plIVGqN-3" value="UPDATE EVENT DATA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#B5739D;fontColor=#FFFFFF;rounded=1;labelBorderColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="920" y="410" as="geometry">
+        <mxCell id="MGMfOYtRVl626plIVGqN-3" value="UPDATE EVENT DATA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;labelBorderColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="920" y="400" as="geometry">
             <mxPoint x="-294" y="-88" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -77,9 +77,9 @@
         <mxCell id="71qHSc86nhLidYFrZ0Hx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="71qHSc86nhLidYFrZ0Hx-3" target="71qHSc86nhLidYFrZ0Hx-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t9agoga5QZjk2vCG1AxP-7" value="REQ EVENT DATA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#B5739D;fontColor=#FFFFFF;rounded=1;" vertex="1" connectable="0" parent="71qHSc86nhLidYFrZ0Hx-1">
+        <mxCell id="t9agoga5QZjk2vCG1AxP-7" value="REQ EVENT DATA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" connectable="0" parent="71qHSc86nhLidYFrZ0Hx-1">
           <mxGeometry x="-0.08" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71qHSc86nhLidYFrZ0Hx-3" value="通信ミドル" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;shape=mxgraph.azure.virtual_machine;fontSize=16;strokeWidth=3;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
@@ -92,9 +92,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t9agoga5QZjk2vCG1AxP-11" value="INFORM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#B5739D;fontColor=#FFFFFF;rounded=1;" vertex="1" connectable="0" parent="t9agoga5QZjk2vCG1AxP-9">
+        <mxCell id="t9agoga5QZjk2vCG1AxP-11" value="INFORM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" connectable="0" parent="t9agoga5QZjk2vCG1AxP-9">
           <mxGeometry x="-0.0026" relative="1" as="geometry">
-            <mxPoint x="-67" as="offset" />
+            <mxPoint x="-67" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71qHSc86nhLidYFrZ0Hx-4" value="分析ミドル" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;shape=mxgraph.azure.virtual_machine;fontSize=16;strokeWidth=3;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
@@ -103,9 +103,9 @@
         <mxCell id="71qHSc86nhLidYFrZ0Hx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="71qHSc86nhLidYFrZ0Hx-6" target="71qHSc86nhLidYFrZ0Hx-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t9agoga5QZjk2vCG1AxP-5" value="GET EVENT DATA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#B5739D;fontColor=#FFFFFF;rounded=1;" vertex="1" connectable="0" parent="71qHSc86nhLidYFrZ0Hx-5">
+        <mxCell id="t9agoga5QZjk2vCG1AxP-5" value="GET EVENT DATA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" connectable="0" parent="71qHSc86nhLidYFrZ0Hx-5">
           <mxGeometry x="-0.0753" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71qHSc86nhLidYFrZ0Hx-6" value="EVENT_DB" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=16;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;strokeWidth=3;fillColor=#5D7F99;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
@@ -117,9 +117,9 @@
         <mxCell id="71qHSc86nhLidYFrZ0Hx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="71qHSc86nhLidYFrZ0Hx-7" target="71qHSc86nhLidYFrZ0Hx-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="t9agoga5QZjk2vCG1AxP-1" value="CONNECT/HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#B5739D;fontColor=#FFFFFF;rounded=1;" vertex="1" connectable="0" parent="71qHSc86nhLidYFrZ0Hx-8">
+        <mxCell id="t9agoga5QZjk2vCG1AxP-1" value="CONNECT/HTTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" connectable="0" parent="71qHSc86nhLidYFrZ0Hx-8">
           <mxGeometry x="-0.0485" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t9agoga5QZjk2vCG1AxP-8" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.sms;fillColor=#5D7F99;labelBackgroundColor=none;strokeColor=#D0CEE2;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
@@ -133,9 +133,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t9agoga5QZjk2vCG1AxP-12" value="INFORM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=#B5739D;fontColor=#FFFFFF;rounded=1;" vertex="1" connectable="0" parent="t9agoga5QZjk2vCG1AxP-10">
+        <mxCell id="t9agoga5QZjk2vCG1AxP-12" value="INFORM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" connectable="0" parent="t9agoga5QZjk2vCG1AxP-10">
           <mxGeometry x="-0.294" y="2" relative="1" as="geometry">
-            <mxPoint x="34" y="-2" as="offset" />
+            <mxPoint x="34" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

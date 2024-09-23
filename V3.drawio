@@ -202,8 +202,9 @@
         <mxCell id="977ARjDEpXw01CLox7Ez-3" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;アダプト&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ミドル&lt;/span&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=16;fontStyle=0;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ecs;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="240" y="437" width="70" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="977ARjDEpXw01CLox7Ez-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#b85450;fontColor=default;strokeWidth=2;labelBackgroundColor=none;fillColor=#f8cecc;" edge="1" parent="1" source="977ARjDEpXw01CLox7Ez-5" target="977ARjDEpXw01CLox7Ez-8">
+        <mxCell id="977ARjDEpXw01CLox7Ez-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#b85450;fontColor=default;strokeWidth=2;labelBackgroundColor=none;fillColor=#f8cecc;" edge="1" parent="1" source="977ARjDEpXw01CLox7Ez-5" target="erfXDY-VZmvZyoJVOZdK-20">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="440" as="targetPoint" />
             <Array as="points">
               <mxPoint x="700" y="256" />
               <mxPoint x="700" y="430" />
@@ -323,8 +324,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="erfXDY-VZmvZyoJVOZdK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#b85450;fontColor=default;labelBackgroundColor=none;fillColor=#f8cecc;strokeWidth=2;" edge="1" parent="1" source="erfXDY-VZmvZyoJVOZdK-2" target="erfXDY-VZmvZyoJVOZdK-15">
+        <mxCell id="erfXDY-VZmvZyoJVOZdK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#b85450;fontColor=default;labelBackgroundColor=none;fillColor=#f8cecc;strokeWidth=2;" edge="1" parent="1" source="erfXDY-VZmvZyoJVOZdK-2" target="erfXDY-VZmvZyoJVOZdK-20">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="550" as="targetPoint" />
             <Array as="points">
               <mxPoint x="700" y="690" />
               <mxPoint x="700" y="550" />

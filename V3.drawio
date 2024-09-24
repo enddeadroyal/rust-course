@@ -114,6 +114,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="erfXDY-VZmvZyoJVOZdK-20" value="" style="whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=none;strokeWidth=2;dashed=1;labelBackgroundColor=none;fontSize=22;" parent="1" vertex="1">
+          <mxGeometry x="513" y="340" width="100" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="977ARjDEpXw01CLox7Ez-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;fontColor=default;strokeWidth=2;labelBackgroundColor=none;fontSize=22;" parent="1" source="yAkpjE-jFL4-wdl5BAUS-1" target="977ARjDEpXw01CLox7Ez-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="59.99999999999996" y="277" as="sourcePoint" />
@@ -404,11 +407,8 @@
             <mxPoint x="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="erfXDY-VZmvZyoJVOZdK-20" value="" style="whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=none;strokeWidth=2;dashed=1;labelBackgroundColor=none;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="511" y="340" width="100" height="280" as="geometry" />
-        </mxCell>
         <mxCell id="erfXDY-VZmvZyoJVOZdK-15" value="Session&amp;nbsp;" style="sketch=0;outlineConnect=0;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=22;fontStyle=0;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.elasticsearch_service;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="521" y="490" width="80" height="120" as="geometry" />
+          <mxGeometry x="524" y="490" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="EMaeGdHdppzCVv9cHfvW-1" value="" style="whiteSpace=wrap;html=1;strokeColor=#EA6B66;fillColor=none;strokeWidth=2;dashed=1;labelBackgroundColor=none;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="1091.5" y="342" width="100" height="320" as="geometry" />

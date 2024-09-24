@@ -91,8 +91,8 @@
         <mxCell id="Qf6C96j7obAUFAtbz4RH-9" value="FRAME&lt;div&gt;CACHE&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=22;image=img/lib/mscae/Cache_Redis_Product.svg;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="554" y="78" width="50" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Qf6C96j7obAUFAtbz4RH-21" value="運行データ" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#1A1A1A;fillColor=#5D7F99;strokeColor=#D0CEE2;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=22;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_apache_cassandra_service;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="908" y="56" width="78" height="78" as="geometry" />
+        <mxCell id="Qf6C96j7obAUFAtbz4RH-21" value="運行&lt;div&gt;データ&lt;/div&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#1A1A1A;fillColor=#5D7F99;strokeColor=#D0CEE2;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=22;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.managed_apache_cassandra_service;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="908" y="63" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="5afJVRb_tPxCVsrMYOY_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="5afJVRb_tPxCVsrMYOY_-1">
           <mxGeometry relative="1" as="geometry">

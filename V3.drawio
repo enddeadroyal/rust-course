@@ -321,7 +321,7 @@
         </mxCell>
         <mxCell id="U6fHilfhb0lnGZxYwIgf-12" value="&lt;span style=&quot;font-size: 22px; background-color: rgb(251, 251, 251);&quot;&gt;write&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;fontSize=22;" parent="977ARjDEpXw01CLox7Ez-16" vertex="1" connectable="0">
           <mxGeometry x="0.0515" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-111" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="erfXDY-VZmvZyoJVOZdK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#b85450;fontColor=default;labelBackgroundColor=none;fillColor=#f8cecc;strokeWidth=2;fontSize=22;" parent="1" source="erfXDY-VZmvZyoJVOZdK-2" target="erfXDY-VZmvZyoJVOZdK-20" edge="1">
@@ -348,7 +348,7 @@
         </mxCell>
         <mxCell id="U6fHilfhb0lnGZxYwIgf-11" value="&lt;span style=&quot;font-size: 22px; background-color: rgb(251, 251, 251);&quot;&gt;write&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;fontSize=22;" parent="U6fHilfhb0lnGZxYwIgf-3" vertex="1" connectable="0">
           <mxGeometry x="-0.0216" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-61" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="erfXDY-VZmvZyoJVOZdK-2" value="ISZ系コア" style="sketch=0;outlineConnect=0;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=22;fontStyle=0;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ecs;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -357,12 +357,11 @@
         <mxCell id="erfXDY-VZmvZyoJVOZdK-3" value="ISZ運行&lt;div style=&quot;font-size: 22px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 22px;&quot;&gt;データ&lt;/span&gt;&lt;/div&gt;" style="sketch=0;outlineConnect=0;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=22;fontStyle=0;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.dynamodb;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1100" y="510" width="83" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="erfXDY-VZmvZyoJVOZdK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;fontColor=default;labelBackgroundColor=none;strokeWidth=2;fontSize=22;" parent="1" source="erfXDY-VZmvZyoJVOZdK-4" edge="1">
+        <mxCell id="erfXDY-VZmvZyoJVOZdK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;fontColor=default;labelBackgroundColor=none;strokeWidth=2;fontSize=22;" parent="1" source="erfXDY-VZmvZyoJVOZdK-4" edge="1" target="977ARjDEpXw01CLox7Ez-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="510" as="targetPoint" />
             <Array as="points">
               <mxPoint x="79" y="510" />
-              <mxPoint x="240" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>

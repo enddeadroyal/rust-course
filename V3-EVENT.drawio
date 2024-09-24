@@ -4,15 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="bnF_GTkMxTmzhYA7cZSp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;" parent="1" source="bnF_GTkMxTmzhYA7cZSp-1" target="bnF_GTkMxTmzhYA7cZSp-2" edge="1">
+        <mxCell id="bnF_GTkMxTmzhYA7cZSp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;fontSize=22;" parent="1" source="bnF_GTkMxTmzhYA7cZSp-1" target="bnF_GTkMxTmzhYA7cZSp-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BQy1X_OXweIhYbrGlqar-3" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 20px; background-color: rgb(251, 251, 251);&quot;&gt;UPDATE EVENT DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="bnF_GTkMxTmzhYA7cZSp-13" vertex="1" connectable="0">
+        <mxCell id="BQy1X_OXweIhYbrGlqar-3" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 22px; background-color: rgb(251, 251, 251);&quot;&gt;UPDATE EVENT DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="bnF_GTkMxTmzhYA7cZSp-13" vertex="1" connectable="0">
           <mxGeometry x="-0.0068" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bnF_GTkMxTmzhYA7cZSp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;" parent="1" source="bnF_GTkMxTmzhYA7cZSp-1" target="bnF_GTkMxTmzhYA7cZSp-10" edge="1">
+        <mxCell id="bnF_GTkMxTmzhYA7cZSp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;fontSize=22;" parent="1" source="bnF_GTkMxTmzhYA7cZSp-1" target="bnF_GTkMxTmzhYA7cZSp-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="432" y="40" />
@@ -20,113 +20,113 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BQy1X_OXweIhYbrGlqar-2" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 20px; background-color: rgb(251, 251, 251);&quot;&gt;SEND FRAME&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="bnF_GTkMxTmzhYA7cZSp-16" vertex="1" connectable="0">
+        <mxCell id="BQy1X_OXweIhYbrGlqar-2" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 22px; background-color: rgb(251, 251, 251);&quot;&gt;SEND FRAME&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="bnF_GTkMxTmzhYA7cZSp-16" vertex="1" connectable="0">
           <mxGeometry x="-0.0007" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bnF_GTkMxTmzhYA7cZSp-1" value="通信ミドル" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;shape=mxgraph.azure.virtual_machine;fontSize=20;strokeWidth=3;labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="382.23" y="81" width="100" height="70" as="geometry" />
+        <mxCell id="bnF_GTkMxTmzhYA7cZSp-1" value="通信ミドル" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;shape=mxgraph.azure.virtual_machine;fontSize=22;strokeWidth=3;labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="402.23" y="81" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bnF_GTkMxTmzhYA7cZSp-2" value="分析ミドル" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;shape=mxgraph.azure.virtual_machine;fontSize=20;strokeWidth=3;labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="810" y="81" width="100" height="70" as="geometry" />
+        <mxCell id="bnF_GTkMxTmzhYA7cZSp-2" value="分析ミドル" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;shape=mxgraph.azure.virtual_machine;fontSize=22;strokeWidth=3;labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="830" y="81" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="bnF_GTkMxTmzhYA7cZSp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;" parent="1" source="bnF_GTkMxTmzhYA7cZSp-8" target="bnF_GTkMxTmzhYA7cZSp-2" edge="1">
+        <mxCell id="bnF_GTkMxTmzhYA7cZSp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;fontSize=22;" parent="1" source="bnF_GTkMxTmzhYA7cZSp-8" target="bnF_GTkMxTmzhYA7cZSp-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BQy1X_OXweIhYbrGlqar-5" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 20px; background-color: rgb(251, 251, 251);&quot;&gt;GET EVENT DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="bnF_GTkMxTmzhYA7cZSp-9" vertex="1" connectable="0">
+        <mxCell id="BQy1X_OXweIhYbrGlqar-5" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 22px; background-color: rgb(251, 251, 251);&quot;&gt;GET EVENT DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="bnF_GTkMxTmzhYA7cZSp-9" vertex="1" connectable="0">
           <mxGeometry x="0.0091" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bnF_GTkMxTmzhYA7cZSp-8" value="EVENT_DB" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;strokeWidth=3;fillColor=#5D7F99;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
-          <mxGeometry x="1130" y="76" width="60" height="80" as="geometry" />
+        <mxCell id="bnF_GTkMxTmzhYA7cZSp-8" value="EVENT_DB" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=22;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;strokeWidth=3;fillColor=#5D7F99;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
+          <mxGeometry x="1198" y="76" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bnF_GTkMxTmzhYA7cZSp-10" value="DTS-D1/D2/G1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/azure2/other/Connected_Vehicle_Platform.svg;strokeWidth=3;fillColor=#5D7F99;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
+        <mxCell id="bnF_GTkMxTmzhYA7cZSp-10" value="DTS-D1/D2/G1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=22;image=img/lib/azure2/other/Connected_Vehicle_Platform.svg;strokeWidth=3;fillColor=#5D7F99;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;" parent="1" vertex="1">
           <mxGeometry x="40" y="85.5" width="79.77" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="bnF_GTkMxTmzhYA7cZSp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;" parent="1" source="bnF_GTkMxTmzhYA7cZSp-10" target="bnF_GTkMxTmzhYA7cZSp-1" edge="1">
+        <mxCell id="bnF_GTkMxTmzhYA7cZSp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;fontSize=22;" parent="1" source="bnF_GTkMxTmzhYA7cZSp-10" target="bnF_GTkMxTmzhYA7cZSp-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BQy1X_OXweIhYbrGlqar-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;CONNECT/TCP&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontColor=#FFFFFF;labelBackgroundColor=#A680B8;" parent="bnF_GTkMxTmzhYA7cZSp-12" vertex="1" connectable="0">
+        <mxCell id="BQy1X_OXweIhYbrGlqar-1" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;CONNECT/TCP&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;fontColor=#FFFFFF;labelBackgroundColor=#A680B8;" parent="bnF_GTkMxTmzhYA7cZSp-12" vertex="1" connectable="0">
           <mxGeometry x="0.0076" y="2" relative="1" as="geometry">
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3nwgfoT_hswRjVwzcz-u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;fontColor=default;strokeWidth=3;labelBackgroundColor=none;" parent="1" source="bnF_GTkMxTmzhYA7cZSp-2" target="bnF_GTkMxTmzhYA7cZSp-1" edge="1">
+        <mxCell id="3nwgfoT_hswRjVwzcz-u-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;fontColor=default;strokeWidth=3;labelBackgroundColor=none;fontSize=22;" parent="1" source="bnF_GTkMxTmzhYA7cZSp-2" target="bnF_GTkMxTmzhYA7cZSp-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="860" y="290" as="sourcePoint" />
-            <mxPoint x="432.23" y="220" as="targetPoint" />
+            <mxPoint x="880" y="290" as="sourcePoint" />
+            <mxPoint x="452.23" y="220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="860" y="210" />
-              <mxPoint x="430" y="210" />
+              <mxPoint x="880" y="210" />
+              <mxPoint x="450" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BQy1X_OXweIhYbrGlqar-4" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 20px; background-color: rgb(251, 251, 251);&quot;&gt;SEND EVENT DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" parent="3nwgfoT_hswRjVwzcz-u-1" vertex="1" connectable="0">
+        <mxCell id="BQy1X_OXweIhYbrGlqar-4" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 22px; background-color: rgb(251, 251, 251);&quot;&gt;SEND EVENT DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" parent="3nwgfoT_hswRjVwzcz-u-1" vertex="1" connectable="0">
           <mxGeometry x="-0.0036" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="q_5lCT05Onl2vClUrT04-3" target="q_5lCT05Onl2vClUrT04-6">
+        <mxCell id="q_5lCT05Onl2vClUrT04-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;fontSize=22;" edge="1" parent="1" source="q_5lCT05Onl2vClUrT04-3" target="q_5lCT05Onl2vClUrT04-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-2" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 20px; background-color: rgb(251, 251, 251);&quot;&gt;REQ EVENT DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="q_5lCT05Onl2vClUrT04-1">
+        <mxCell id="q_5lCT05Onl2vClUrT04-2" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 22px; background-color: rgb(251, 251, 251);&quot;&gt;REQ EVENT DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="q_5lCT05Onl2vClUrT04-1">
           <mxGeometry x="-0.0163" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-3" value="通信ミドル" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;shape=mxgraph.azure.virtual_machine;fontSize=20;strokeWidth=3;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="410" width="100" height="70" as="geometry" />
+        <mxCell id="q_5lCT05Onl2vClUrT04-3" value="通信ミドル" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;shape=mxgraph.azure.virtual_machine;fontSize=22;strokeWidth=3;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="410" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;strokeWidth=3;labelBackgroundColor=none;fontColor=default;curved=0;" edge="1" parent="1" source="q_5lCT05Onl2vClUrT04-6" target="q_5lCT05Onl2vClUrT04-13">
+        <mxCell id="q_5lCT05Onl2vClUrT04-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;strokeWidth=3;labelBackgroundColor=none;fontColor=default;curved=0;fontSize=22;" edge="1" parent="1" source="q_5lCT05Onl2vClUrT04-6" target="q_5lCT05Onl2vClUrT04-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720" y="280" />
+              <mxPoint x="740" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-5" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 20px; background-color: rgb(251, 251, 251);&quot;&gt;INFORM EVENT&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="q_5lCT05Onl2vClUrT04-4">
+        <mxCell id="q_5lCT05Onl2vClUrT04-5" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 22px; background-color: rgb(251, 251, 251);&quot;&gt;INFORM EVENT&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="q_5lCT05Onl2vClUrT04-4">
           <mxGeometry x="0.2958" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-6" value="分析ミドル" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;shape=mxgraph.azure.virtual_machine;fontSize=20;strokeWidth=3;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="410" width="100" height="70" as="geometry" />
+        <mxCell id="q_5lCT05Onl2vClUrT04-6" value="分析ミドル" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#D0CEE2;fillColor=#5D7F99;shape=mxgraph.azure.virtual_machine;fontSize=22;strokeWidth=3;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="410" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="q_5lCT05Onl2vClUrT04-9" target="q_5lCT05Onl2vClUrT04-6">
+        <mxCell id="q_5lCT05Onl2vClUrT04-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;fontSize=22;" edge="1" parent="1" source="q_5lCT05Onl2vClUrT04-9" target="q_5lCT05Onl2vClUrT04-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-8" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 20px; background-color: rgb(251, 251, 251);&quot;&gt;GET EVENT DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="q_5lCT05Onl2vClUrT04-7">
+        <mxCell id="q_5lCT05Onl2vClUrT04-8" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 22px; background-color: rgb(251, 251, 251);&quot;&gt;GET EVENT DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="q_5lCT05Onl2vClUrT04-7">
           <mxGeometry x="-0.0254" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-9" value="EVENT_DB" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;strokeWidth=3;fillColor=#5D7F99;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1006" y="405" width="60" height="80" as="geometry" />
+        <mxCell id="q_5lCT05Onl2vClUrT04-9" value="EVENT_DB" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=22;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;strokeWidth=3;fillColor=#5D7F99;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1074" y="405" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-10" value="ISUZU" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=20;image=img/lib/azure2/other/Connected_Vehicle_Platform.svg;strokeWidth=3;fillColor=#5D7F99;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
+        <mxCell id="q_5lCT05Onl2vClUrT04-10" value="ISUZU" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=22;image=img/lib/azure2/other/Connected_Vehicle_Platform.svg;strokeWidth=3;fillColor=#5D7F99;strokeColor=#D0CEE2;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="414.5" width="79.77" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="q_5lCT05Onl2vClUrT04-10" target="q_5lCT05Onl2vClUrT04-3">
+        <mxCell id="q_5lCT05Onl2vClUrT04-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;fontSize=22;" edge="1" parent="1" source="q_5lCT05Onl2vClUrT04-10" target="q_5lCT05Onl2vClUrT04-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-12" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;CONNECT/HTTP&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;fontColor=#FFFFFF;labelBackgroundColor=#A680B8;" vertex="1" connectable="0" parent="q_5lCT05Onl2vClUrT04-11">
+        <mxCell id="q_5lCT05Onl2vClUrT04-12" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;CONNECT/HTTP&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;fontColor=#FFFFFF;labelBackgroundColor=#A680B8;" vertex="1" connectable="0" parent="q_5lCT05Onl2vClUrT04-11">
           <mxGeometry x="0.0109" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-13" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.sms;fillColor=#5D7F99;labelBackgroundColor=none;strokeColor=#D0CEE2;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="82.4" height="82.4" as="geometry" />
+        <mxCell id="q_5lCT05Onl2vClUrT04-13" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.sms;fillColor=#5D7F99;labelBackgroundColor=none;strokeColor=#D0CEE2;fontColor=#1A1A1A;rounded=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="82.4" height="82.4" as="geometry" />
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;strokeWidth=3;labelBackgroundColor=none;fontColor=default;curved=0;" edge="1" parent="1" source="q_5lCT05Onl2vClUrT04-13" target="q_5lCT05Onl2vClUrT04-10">
+        <mxCell id="q_5lCT05Onl2vClUrT04-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;strokeWidth=3;labelBackgroundColor=none;fontColor=default;curved=0;fontSize=22;" edge="1" parent="1" source="q_5lCT05Onl2vClUrT04-13" target="q_5lCT05Onl2vClUrT04-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="281" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-15" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 20px; background-color: rgb(251, 251, 251);&quot;&gt;INFORM EVENT&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="q_5lCT05Onl2vClUrT04-14">
+        <mxCell id="q_5lCT05Onl2vClUrT04-15" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 22px; background-color: rgb(251, 251, 251);&quot;&gt;INFORM EVENT&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=22;" vertex="1" connectable="0" parent="q_5lCT05Onl2vClUrT04-14">
           <mxGeometry x="-0.4206" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

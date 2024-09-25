@@ -85,7 +85,7 @@
         </mxCell>
         <mxCell id="Qf6C96j7obAUFAtbz4RH-32" value="read" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#D0CEE2;fontColor=#1A1A1A;fillColor=#5D7F99;fontSize=22;" parent="Qf6C96j7obAUFAtbz4RH-25" vertex="1" connectable="0">
           <mxGeometry x="0.0154" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-9" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Qf6C96j7obAUFAtbz4RH-9" value="FRAME&lt;div&gt;CACHE&lt;/div&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=22;image=img/lib/mscae/Cache_Redis_Product.svg;labelBackgroundColor=none;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;" parent="1" vertex="1">

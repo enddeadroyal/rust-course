@@ -34,7 +34,7 @@
         <mxCell id="bnF_GTkMxTmzhYA7cZSp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;fontSize=22;" parent="1" source="bnF_GTkMxTmzhYA7cZSp-8" target="bnF_GTkMxTmzhYA7cZSp-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BQy1X_OXweIhYbrGlqar-5" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 30px; background-color: rgb(251, 251, 251);&quot;&gt;GET EVENT DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;" parent="bnF_GTkMxTmzhYA7cZSp-9" vertex="1" connectable="0">
+        <mxCell id="BQy1X_OXweIhYbrGlqar-5" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 30px; background-color: rgb(251, 251, 251);&quot;&gt;GET&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 30px; background-color: rgb(251, 251, 251);&quot;&gt;EVENT DATA&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;" parent="bnF_GTkMxTmzhYA7cZSp-9" vertex="1" connectable="0">
           <mxGeometry x="0.0091" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -110,7 +110,7 @@
         <mxCell id="q_5lCT05Onl2vClUrT04-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;strokeColor=#736CA8;labelBackgroundColor=none;fontColor=default;fontSize=22;" parent="1" source="q_5lCT05Onl2vClUrT04-9" target="q_5lCT05Onl2vClUrT04-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q_5lCT05Onl2vClUrT04-8" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 30px; background-color: rgb(251, 251, 251);&quot;&gt;GET EVENT DATA&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;" parent="q_5lCT05Onl2vClUrT04-7" vertex="1" connectable="0">
+        <mxCell id="q_5lCT05Onl2vClUrT04-8" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 30px; background-color: rgb(251, 251, 251);&quot;&gt;GET&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(26, 26, 26); font-size: 30px; background-color: rgb(251, 251, 251);&quot;&gt;EVENT DATA&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=30;" parent="q_5lCT05Onl2vClUrT04-7" vertex="1" connectable="0">
           <mxGeometry x="-0.0254" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

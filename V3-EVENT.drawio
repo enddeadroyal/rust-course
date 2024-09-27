@@ -95,7 +95,7 @@
         <mxCell id="q_5lCT05Onl2vClUrT04-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;strokeWidth=3;labelBackgroundColor=none;fontColor=default;curved=0;fontSize=22;" parent="1" source="q_5lCT05Onl2vClUrT04-6" target="q_5lCT05Onl2vClUrT04-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="740" y="280" />
+              <mxPoint x="740" y="301" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -130,12 +130,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="q_5lCT05Onl2vClUrT04-13" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.sms;fillColor=#5D7F99;labelBackgroundColor=none;strokeColor=#D0CEE2;fontColor=#1A1A1A;rounded=1;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry x="340" y="240" width="82.4" height="82.4" as="geometry" />
+          <mxGeometry x="352.8" y="260" width="82.4" height="82.4" as="geometry" />
         </mxCell>
         <mxCell id="q_5lCT05Onl2vClUrT04-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#736CA8;strokeWidth=3;labelBackgroundColor=none;fontColor=default;curved=0;fontSize=22;" parent="1" source="q_5lCT05Onl2vClUrT04-13" target="q_5lCT05Onl2vClUrT04-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="281" />
+              <mxPoint x="80" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>

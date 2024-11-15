@@ -77,7 +77,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nkPuWHo--e187zoxdhc1-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nkPuWHo--e187zoxdhc1-32" target="nkPuWHo--e187zoxdhc1-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="320" />
+              <mxPoint x="1150" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nkPuWHo--e187zoxdhc1-32" value="Dynamo Golang Demo&lt;div&gt;Define&lt;/div&gt;" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.azure.startup_task;fillColor=#0078D7;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1340" y="279" width="76.8" height="80" as="geometry" />
@@ -85,7 +90,7 @@
         <mxCell id="nkPuWHo--e187zoxdhc1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nkPuWHo--e187zoxdhc1-2" target="nkPuWHo--e187zoxdhc1-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1200" y="319" />
+              <mxPoint x="1200" y="300" />
               <mxPoint x="1200" y="49" />
             </Array>
           </mxGeometry>
@@ -96,7 +101,7 @@
         <mxCell id="nkPuWHo--e187zoxdhc1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nkPuWHo--e187zoxdhc1-36" target="nkPuWHo--e187zoxdhc1-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="649" y="800" />
+              <mxPoint x="660" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -106,7 +111,7 @@
         <mxCell id="nkPuWHo--e187zoxdhc1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nkPuWHo--e187zoxdhc1-35" target="nkPuWHo--e187zoxdhc1-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="649" y="800" />
+              <mxPoint x="640" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
